@@ -1,13 +1,14 @@
 ##################Documentation##################
 
 Things to implement in project-
-1.Open subreddit (in default browser).
-2.Open website.
-3.Send email.
-4.Tell a joke.
-5.Current weather in (city name) : Tells you the current condition and temperature
-6.Weather forecast in (city name) : Tells you the condition, highest and lowest temperature of the next two days
-7.Basic interaction.
-8.Open application on computer.
-9.Date and time(present, past or future).
-10.Events at particular using Google Calender Api. 
+1.Open websites (youtube, gmail, reddit, google, github)
+2.Send email.
+3.Tell a joke.
+4.Current weather in (city name) : Tells you the current condition and temperature
+5.Weather forecast in (city name) : Tells you the condition, highest and lowest temperature of the next two days
+6.Basic interaction.
+7.Open application on computer.(make notes, play music) 
+8.Date and time(present, past or future).
+9.Check and create events (at particular using Google Calender Api).
+10.Greet based on time.
+11.Enter users name and interact using that.
